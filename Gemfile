@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
 gem 'rails-i18n'
-# Use sqlite3 as the database for Active Record
+# Use pg as the database for Active Record
 gem 'pg'
 gem 'kaminari'
 gem 'kaminari-i18n'
